@@ -17,7 +17,7 @@ public class Hobbits extends Heroes {
     }
     @Override
     public void saludar(){
-        System.out.println("hola soy un Hobbit y me llamo"+ this.nombre);
+        System.out.println("hola soy un Hobbit y me llamo "+ this.nombre);
     }
     
 }

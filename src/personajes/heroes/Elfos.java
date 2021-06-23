@@ -16,7 +16,7 @@ public class Elfos extends Heroes{
     }
     @Override
     public void saludar(){
-        System.out.println("hola soy un Elfo y me llamo"+ this.nombre);
+        System.out.println("hola soy un Elfo y me llamo "+ this.nombre);
     }
     
 }

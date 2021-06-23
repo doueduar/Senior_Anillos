@@ -16,7 +16,7 @@ public class Humanos extends Heroes{
     }
     @Override
     public void saludar(){
-        System.out.println("hola soy un Humano y me llamo"+ this.nombre);
+        System.out.println("hola soy un Humano y me llamo "+ this.nombre);
     }
     
 }
